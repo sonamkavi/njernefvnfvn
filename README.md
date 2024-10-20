@@ -63,14 +63,14 @@ CSV
   daily_weather_summary.csv
   ```
  ```
-| City         |    avg_temp      |     max_temp      |   min_temp   | dominant_weather |
-|--------------|------------------|-------------------|--------------|------------------|
-|Bangalore     |  23.33           |      23.33        |    23.33     |     Clouds       |
-|Chennai       |  28.98           |      28.98        |    28.98     |    Clouds        |
-|Delhi         |  29.05           |      29.05        |    29.05     |     Haze         |
-|Hyderabad     |  26.23           |      26.23        |    26.23     |     Haze         |
-|Kolkata       |  28.97           |      28.97        |    28.97     |     Haze         |
-|Mumbai        |  28.99           |      28.99        |    28.99     |     Thunderstorm |
+| City         |    avg_temp      |     max_temp      |   min_temp   | dominant_weather|
+|--------------|------------------|-------------------|--------------|-----------------|
+|Bangalore     |  23.33           |      23.33        |    23.33     |    Clouds       |
+|Chennai       |  28.98           |      28.98        |    28.98     |    Clouds       |
+|Delhi         |  29.05           |      29.05        |    29.05     |    Haze         |
+|Hyderabad     |  26.23           |      26.23        |    26.23     |    Haze         |
+|Kolkata       |  28.97           |      28.97        |    28.97     |    Haze         |
+|Mumbai        |  28.99           |      28.99        |    28.99     |    Thunderstorm |
 ```
 Temperature Trend Plot
  - A bar chart representing temperature trends is saved as temperature_trends.png:
